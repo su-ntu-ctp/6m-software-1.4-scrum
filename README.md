@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Agile SCRUM
 
 ## Dependencies
 
@@ -9,11 +9,21 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
+> We have existing content at https://docs.google.com/presentation/d/1g8TcH9nO8rN33hAg-bgt-Uj3XGqIDkZOpkgWZ_aU1Ew/edit#slide=id.ge7dc7400c4_0_0
+> The bad thing about current material is that it is a lecture style. We should convert the materials into a 30% lecture and 70% discussion format.
+
 Learners will understand:
-- Insert the knowledge to be acquired
+- SCRUM is one of the Agile methodologies.
+- The advantage of Agile over Waterfall methodology.
+- The twelve principles and five values of SCRUM.
+- The difference between Product Backlog and Sprint Backlog.
+- The five meetings in SCRUM: Sprint Planning Meet, Daily Standup, Sprint Review Meet, Retrospective Meet and Product Backlog Refinement Meet.
+- What are user stories and how to write them.
+- The different roles in a SCRUM team.
+- How tasks are tracked.
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Still thinking...
 
 
 ## Lesson Plan
