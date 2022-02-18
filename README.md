@@ -27,6 +27,7 @@ Refer to the following markdown file for the respective sections of the class:
 
 Learners will understand:
 - SCRUM is one of the Agile methodologies.
+- What is SDLC.
 - The advantage of Agile over Waterfall methodology.
 - The twelve principles and five values of SCRUM.
 - The difference between Product Backlog and Sprint Backlog.
