@@ -14,7 +14,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 - [Introduction to class keyword](https://www.w3schools.com/js/js_class_intro.asp)
 - [Class inheritance](https://www.w3schools.com/js/js_class_inheritance.asp)
-- [The meetings in SCRUM](https://lucidspark.com/blog/different-types-of-scrum-meetings).(For Lesson)
+- [Agile vs Waterfall](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/).(For Lesson)
 
 ### Helpful Links (References)
 
@@ -22,3 +22,6 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [What are ECMA?](https://en.wikipedia.org/wiki/ECMAScript) - ES6 is ECMAScript 2015
 
+### Extra Readings (Post Lesson)
+
+- [12 Principles of Agile Manifesto](https://kanbanize.com/agile/project-management/principles)
