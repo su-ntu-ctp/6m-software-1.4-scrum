@@ -19,13 +19,7 @@ class Parent {
 }
 
 // Add code here
-class Child extends Parent {
-    
-    performTalent(){
-        super.performTalent();
-        console.log("Talent from child class");
-    }
-}
+
 
 const baby = new Child();
 baby.performTalent();
