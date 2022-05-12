@@ -20,3 +20,5 @@ class Vehicle {
 }
 
 // Add code here
+const car = new Vehicle("Edison");
+car.drive();
