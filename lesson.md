@@ -2,7 +2,7 @@
 
 ### Preparation
 
-- We do not cover the entire SCRUM but focus on Agile. In today's world, many organizations, especially startups, may be running other Agile Methodology other than SCRUM.
+N/A
 
 ### Lesson Overview
 
@@ -49,14 +49,22 @@ SCRUM is one of the many Agile Methodologies.
 
 In SCRUM, there are four meetings:
 
-1. *Sprint Planning* - 
-1. *Daily Scrum* - 
-1. *Sprint Review* - 
-1. *Sprint Retrospective* - 
+1. *Sprint Planning* - Laying out the work to be performed for the sprint. (4 to 8 hours)
+1. *Daily Scrum* - Inspect progress toward the Sprint Goal. (15 mins)
+1. *Sprint Review* - Inspect the outcome of the Sprint. (1 to 4 hours)
+1. *Sprint Retrospective* - Plan ways to increase quality and effectiveness. (1 to 3 hours)
 
 Source: https://www.scrum.org/resources/what-is-scrum
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Class Activity (What are agile user stories?)
 
-Insert Instructions
+|Action|Duration|Outcome|
+|----|--------|-------|
+|Learners self Reading for this [link](https://www.atlassian.com/agile/project-management/user-stories).|10 mins|Learners have a brief understanding of what agile user stories are.
+|Instructor facilitate students to answer three questions by getting students to type in chat.|20 mins|Summarizes and highlight the good inputs from student.|
+
+Three Questions:
+1. What are user stories?
+1. Why user stories?
+1. Think and provide an example of a user story.

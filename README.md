@@ -42,11 +42,12 @@ Learners will be able to:
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
 |15 mins|Conceptual Knowledge| Part 1 - Agile Manifesto & 12 Principles |
 |15 mins|Conceptual Knowledge| Part 2 - SCRUM |
-||**1 HR MARK**|
+|30 mins|Class Activity| Part 3 - What are agile user stories?|
+||**1 HR 10 MINS MARK**|
 |5 mins|Break|Break|
 |20 mins|Code Along| Class and Instantiation|
-|30 mins|Code Along| Inheritance, Private Properties and Overriding|
-|5 mins|Break||
+|20 mins|Code Along| Inheritance, Private Properties and Overriding|
+|5 mins|Break|Break|
 ||**2 HR MARK**|
 |50 mins|Learners self attempt on assignments|
 |10 mins|Instructors assist learners to push changes to remote repository.|
