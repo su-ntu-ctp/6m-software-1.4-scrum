@@ -1,27 +1,9 @@
-## Self Studies
+# Self Studies List
 
-### Brief
-
-Technical knowledge is vast. Timebox yourself for 3 hours to work on the following content.
-
-### Video 
-
-- [Class and Inheritance in ES5 and ES6](https://youtu.be/vDJpGenyHaA) (duration: 40:20)
-
-> There is a change in syntax between ES5 and ES6. We will be using ES6 syntax throughout this program.
-
-### Readings
-
-- [Introduction to class keyword](https://www.w3schools.com/js/js_class_intro.asp)
-- [Class inheritance](https://www.w3schools.com/js/js_class_inheritance.asp)
-- [Agile vs Waterfall](https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/).(For Lesson)
-
-### Helpful Links (References)
-
-- [w3schools](https://www.w3schools.com/js/)
-- [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [What are ECMA?](https://en.wikipedia.org/wiki/ECMAScript) - ES6 is ECMAScript 2015
-
-### Extra Readings (Post Lesson)
-
+- [The Agile Manifesto and Twelve Principles](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto)
+- [SCRUM Three Pillars](https://www.visual-paradigm.com/scrum/what-are-scrum-three-pillars)
+- [How is SCRUM Self-Organized](https://www.scrum.org/resources/blog/how-do-3-scrum-roles-promote-self-organization)
+- [Difference between Sprint Backlog and Product Backlog](https://pmworldnetwork.com/product-management/the-difference-between-sprint-backlog-and-product-backlog)
+- [How are user stories and tasks managed?](https://pm.stackexchange.com/questions/23718/how-are-user-stories-and-tasks-managed-in-scrum)
+- [The game is over for SCRUM?](https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d)
 - [12 Principles of Agile Manifesto](https://kanbanize.com/agile/project-management/principles)
