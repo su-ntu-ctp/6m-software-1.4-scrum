@@ -13,13 +13,12 @@ Learners will understand:
 - What is Agile and SCRUM.
 - What is a SCRUM Sprint.
 - The twelves principles of Agile and the Agile Manifesto.
-- JavaScript: The difference between the use of object literal and class.
 
 Learners will be able to:
-- Define a class.
-- Instantiate an object from a class.
-- Extend a parent class and perform method overriding.
-
+- Create Sprint Backlog items in your project
+- Run Daily Standup with your project team
+- Run Sprint Backlog meeting with your project team
+- Run Product Backlog meeting with your prohject team
 
 ## Lesson Plan
 
@@ -27,16 +26,13 @@ Learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|15 mins|Conceptual Knowledge| Part 1 - Agile Manifesto & 12 Principles |
-|15 mins|Conceptual Knowledge| Part 2 - SCRUM |
-|30 mins|Class Activity| Part 3 - What are agile user stories?|
-||**1 HR 10 MINS MARK**|
-|5 mins|Break|Break|
-|20 mins|Code Along| Class and Instantiation|
-|20 mins|Code Along| Inheritance, Private Properties and Overriding|
-|5 mins|Break|Break|
+|25 mins|Conceptual Knowledge| Part 1 - Agile Manifesto & 12 Principles |
+|25 mins|Conceptual Knowledge| Part 2 - SCRUM |
+||**1 HR MARK**|
+|10 mins|Break|Break|
+|20 mins|Conceptual Knowledge| Part 3 - What are agile user stories?|
+|20 mins|Group Activity|Group members to create their own user stories|
 ||**2 HR MARK**|
-|50 mins|Learners self attempt on assignments|
-|10 mins|Instructors assist learners to push changes to remote repository.|
+|60 mins|Learners self attempt on assignments|
 ||**END CLASS 3 HR MARK**|
 
