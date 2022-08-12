@@ -69,24 +69,3 @@ Three Questions:
 1. Why user stories?
 1. Think and provide an example of a user story.
 
----
-
-## Part 4 - Class & Object Instantiation
-
-Sample code is prepared [here](./src/class-usage/index.js).
-
-Learners should understand:
-- How to define a class
-- How to use constructor method
-- How to assign variables to private properties
-- How to define a method
-- Use of `new` keyword to instantiate an object
-
-## Part 5 - Inheritance
-
-Sample code is prepared [here](./src/inheritance/index.js).
-
-Learners should understand:
-- How to extend a class using the `extends` keyword.
-- How to perform method overriding.
-- How to call parent's features using the `super` keyword.
