@@ -12,13 +12,12 @@ Refer to the following markdown file for the respective sections of the class:
 Learners will understand:
 - What is Agile and SCRUM.
 - What is a SCRUM Sprint.
-- The twelves principles of Agile and the Agile Manifesto.
+- The twelve principles of Agile and the Agile Manifesto.
 
 Learners will be able to:
-- Create Sprint Backlog items in your project
+- Create and review Sprint Backlog items in your project
 - Run Daily Standup with your project team
-- Run Sprint Backlog meeting with your project team
-- Run Product Backlog meeting with your prohject team
+- Practice running Scrum meetings with your project team
 
 ## Lesson Plan
 
