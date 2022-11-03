@@ -23,7 +23,7 @@
 ### Q4: Which of the following is part of the three pillars in SCRUM Theory?
 
 - A: **Competency
-- B: Tranparency
+- B: Transparency
 - C: Inspection
 - D: Adaptation
 ---
