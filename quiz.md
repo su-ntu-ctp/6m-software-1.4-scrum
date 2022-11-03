@@ -65,5 +65,5 @@
 
 - A: Discuss what has worked well in the closing sprint.
 - B: Discuss what can be improved.
-- C: Decide what can be implemented susintability.
+- C: Decide what can be implemented sustainability.
 - D: **All improvements should be implemented immediately in the next sprint.
