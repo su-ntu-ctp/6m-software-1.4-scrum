@@ -55,6 +55,7 @@ In SCRUM, there are four meetings:
 1. *Sprint Retrospective* - Plan ways to increase quality and effectiveness. (1 to 3 hours)
 
 Source: https://www.scrum.org/resources/what-is-scrum
+
 ---
 
 ## Part 3 - Class Activity (What are agile user stories?)
