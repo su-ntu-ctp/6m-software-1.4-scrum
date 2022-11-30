@@ -4,8 +4,8 @@
 
 Instructions are written as comment in the respective `.js` files.
 
-- [Class & Instantiation](./assignment/q1-class.js)
-- [Inheritance](./assignment/q2-overriding.js)
+- [Class & Instantiation](./assignment/q1-smart-home.js)
+- [Inheritance](./assignment/q2-doc-permission.js)
 
 ### Submission 
 
