@@ -13,7 +13,9 @@ We will spend the first hour learning about Agile and SCRUM yet keeping in mind 
 ### Self studies check-in
 
 Q1: Describe the Waterfall Model.
+
 Q2: Describe the Agile Model.
+
 Q3: Describe the difference between Waterfall and Agile model.
 
 ---
