@@ -41,6 +41,18 @@ The most popular Agile Methodology is SCRUM, but it is not the only methodology.
 
 The 12 principles applies to every agile methodologies.
 
+### Activity - Research
+
+Choose 3 among the following Agile Methodologies and research how each is conducted:
+- Extreme Programming (XP)
+- Scrum
+- Crystal
+- Dynamic Systems Development Method (DSDM)
+- Lean Development
+- Feature-Driven Development (FDD)
+- Test Driven Development (TDD)
+- Kanban
+
 ---
 
 ## Part 2 - SCRUM
@@ -48,6 +60,24 @@ The 12 principles applies to every agile methodologies.
 SCRUM is one of the many Agile Methodologies.
 
 <img src="./assets/scrum.webp" style="background-color:white;"/>
+
+SCRUM Theory:
+Empricism through:
+1. Transparency - Giving visibility to processes 
+1. Inspection - Timely checks of progress
+1. Adaptation - Adjusting the process as needed
+
+Scrum Values:
+1. Courage - We admit we do not know everything 
+1. Focus - focus on what is important
+1. Commitment - dedicated to delivering quality software
+1. Respect - create cross-functional, self-organizing teams
+1. Openness - frequently inspecting through delivery
+
+A Scrum team is composed of:
+1. Product Owner - Manages the Product Backlog and optimizes the value of the Product
+1. Scrum Master - Manages the Scrum process and removes impediments
+1. Development Team - Manages itself and create increments based on Definition of Done
 
 In SCRUM, there are four meetings:
 
