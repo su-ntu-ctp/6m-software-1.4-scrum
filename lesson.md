@@ -88,6 +88,12 @@ In SCRUM, there are four meetings:
 
 Source: https://www.scrum.org/resources/what-is-scrum
 
+### Activity - Research
+What are the use of each Scrum artifacts:
+1. Product Backlog
+1. Sprint Backlog
+1. Product Increment
+
 ---
 
 ## Part 3 - Class Activity (What are agile user stories?)
