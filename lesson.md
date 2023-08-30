@@ -108,3 +108,17 @@ Three Questions:
 1. Why user stories?
 1. Think and provide an example of a user story.
 
+---
+
+## Part 4 - Class Activity (User story creation)
+
+Activity: Choose a Scenario and create at least 10 user stories for your chosen scenario
+1. eCommerce website
+2. eBanking website
+3. eLearning platform
+4. Booking management platform (Hotel, Flights)
+5. Social media (Facebook, Twitter/X, Instagram, etc.)
+6. Video/Music streaming service (Youtube, Spotify)
+7. Govtech website
+
+Remember the format of a user story: `As a ____, I want to ____, so that _____`
