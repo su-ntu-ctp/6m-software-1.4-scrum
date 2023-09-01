@@ -19,57 +19,76 @@
         d.process(); // "Allowed"
 */
 
-class Permission{
+class Permission {
+  // These are static constants that show what are the possible values when checking permission.
+  static OperationsConst = {
+    CREATE: "CREATE",
+    READ: "READ",
+    UPDATE: "UPDATE",
+    DELETE: "DELETE",
+  };
+  static RolesConst = {
+    OWNER: "OWNER",
+    EDITOR: "EDITOR",
+    READER: "READER",
+  };
 
-    // These are static constants that show what are the possible values when checking permission.
-    static OperationsConst = {
-        CREATE:"CREATE",
-        READ:"READ",
-        UPDATE:"UPDATE",
-        DELETE:"DELETE"
+  // private variables
+  #role;
+  #operation;
+
+  // constructor
+  constructor(role, operation) {
+    if (this.constructor.name === "Permission") {
+      throw new Error("This class cannot be instantiated");
     }
-    static RolesConst = {
-        OWNER:"OWNER",
-        EDITOR:"EDITOR",
-        READER:"READER"
-    }
+    this.#role = role;
+    this.#operation = operation;
+  }
 
-    // private variables
-    #role;
-    #operation;
+  // function
+  check() {
+    const ops = this.#operation.toUpperCase();
 
-    // constructor
-    constructor(role, operation){
-        if(this.constructor.name === "Permission"){
-            throw new Error("This class cannot be instantiated");
+    switch (this.#role.toUpperCase()) {
+      case Permission.RolesConst.OWNER:
+        return true;
+      case Permission.RolesConst.EDITOR:
+        if (
+          ops === Permission.OperationsConst.READ ||
+          ops === Permission.OperationsConst.CREATE ||
+          ops === Permission.OperationsConst.UPDATE
+        ) {
+          return true;
         }
-        this.#role = role;
-        this.#operation = operation
-    }
-
-    // function
-    check(){
-        
-        const ops = this.#operation.toUpperCase();
-
-        switch(this.#role.toUpperCase()){
-            case Permission.RolesConst.OWNER:
-                return true;
-            case Permission.RolesConst.EDITOR:
-                if(ops === Permission.OperationsConst.READ || ops === Permission.OperationsConst.CREATE || ops === Permission.OperationsConst.UPDATE){
-                    return true;
-                }
-                return false;
-            case Permission.RolesConst.READER:
-                if(ops === Permission.OperationsConst.READ){
-                    return true;
-                }
-                return false;
-            default:
-                return false;
-                
+        return false;
+      case Permission.RolesConst.READER:
+        if (ops === Permission.OperationsConst.READ) {
+          return true;
         }
+        return false;
+      default:
+        return false;
     }
+  }
 }
 
-// Add code here
+class Document extends Permission {
+  #content;
+
+  constructor(role, operation, content) {
+    super(role, operation);
+    this.role = role;
+    this.operation = operation;
+    this.#content = content;
+  }
+
+  process() {
+    if (this.check() == true) {
+      console.log("Allowed");
+    }
+    if (this.check() == false) {
+      console.log("Blocked");
+    }
+  }
+}
