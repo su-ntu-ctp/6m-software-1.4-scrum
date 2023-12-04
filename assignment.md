@@ -2,16 +2,22 @@
 
 ### Brief
 
-Instructions are written as comment in the respective `.js` files.
+Write your answers for each scenario:
 
-- [Class & Instantiation](./assignment/q1-smart-home.js)
-- [Inheritance](./assignment/q2-doc-permission.js)
+Scenario 1:
+Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
-### Helpful References
+```
+Your answer here
+```
 
-- [Classes & Methods](https://www.w3schools.com/js/js_classes.asp)
-- [Inheritance](https://www.w3schools.com/js/js_class_inheritance.asp)
-- [Post-assignment Extra Reading - OOP in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+Scenario 2:
+Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
+
+```
+Your answers here
+```
+
 
 ### Submission 
 

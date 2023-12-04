@@ -26,12 +26,13 @@ Learners will be able to:
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
 |25 mins|Conceptual Knowledge| Part 1 - Agile Manifesto & 12 Principles |
-|25 mins|Conceptual Knowledge| Part 2 - SCRUM |
+|20 mins|Conceptual Knowledge| Part 2 - SCRUM |
 ||**1 HR MARK**|
 |10 mins|Break|Break|
+|25 mins|Conceptual Knowledge| Part 2 - SCRUM (Continuation) |
 |20 mins|Conceptual Knowledge| Part 3 - What are agile user stories?|
 |20 mins|Group Activity|Group members to create their own user stories|
-||**2 HR MARK**|
-|60 mins|Learners self attempt on assignments|
+||**2.5 HR MARK**|
+|30 mins|Learners self attempt on assignments|
 ||**END CLASS 3 HR MARK**|
 
