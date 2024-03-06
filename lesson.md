@@ -6,7 +6,7 @@ N/A
 
 ### Lesson Overview
 
-We will spend the first hour learning about Agile and SCRUM yet keeping in mind with other Agile methodology. We will then learn about the difference between using Object Literal (previous lesson) and Class (today's).
+We will spend the first hour learning about Agile and SCRUM yet keeping in mind that there are other Agile methodologies.
 
 ---
 
