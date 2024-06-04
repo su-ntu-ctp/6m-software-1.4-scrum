@@ -45,7 +45,6 @@ The 12 principles applies to every agile methodologies.
 
 Choose 3 among the following Agile Methodologies and research how each is conducted:
 - Extreme Programming (XP)
-- Scrum
 - Crystal
 - Dynamic Systems Development Method (DSDM)
 - Lean Development
@@ -57,7 +56,7 @@ Choose 3 among the following Agile Methodologies and research how each is conduc
 
 ## Part 2 - SCRUM
 
-SCRUM is one of the many Agile Methodologies.
+SCRUM is one of the many Agile Methodologies, it focuses on the setting up a constant cadence of activities and artifacts that allow teams to deliver products at a constant pace.
 
 <img src="./assets/scrum.webp" style="background-color:white;"/>
 
