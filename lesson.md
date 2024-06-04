@@ -6,7 +6,7 @@ N/A
 
 ### Lesson Overview
 
-We will spend the first hour learning about Agile and SCRUM yet keeping in mind that there are other Agile methodologies.
+We will spend the first part of the session learning about Agile and Agile methodologies. The next part will be focusing on one of the more popular Agile methodologies that is SCRUM.
 
 ---
 
