@@ -80,7 +80,7 @@ A Scrum team is composed of:
 
 In SCRUM, there are four meetings:
 
-1. *Sprint Planning* - Laying out the work to be performed for the sprint. (4 to 8 hours)
+1. *Sprint Planning* - Laying out the work to be performed for the sprint using previous measures of a team's velocity. (4 to 8 hours)
 1. *Daily Scrum* - Inspect progress toward the Sprint Goal. (15 mins)
 1. *Sprint Review* - Inspect the outcome of the Sprint. (1 to 4 hours)
 1. *Sprint Retrospective* - Plan ways to increase quality and effectiveness. (1 to 3 hours)
