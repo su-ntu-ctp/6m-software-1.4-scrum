@@ -7,3 +7,6 @@
 - [How are user stories and tasks managed?](https://pm.stackexchange.com/questions/23718/how-are-user-stories-and-tasks-managed-in-scrum)
 - [The game is over for SCRUM?](https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d)
 - [12 Principles of Agile Manifesto](https://kanbanize.com/agile/project-management/principles)
+- [Sprints](https://www.atlassian.com/agile/scrum/sprints)
+- [Behavior Driven Development](https://www.softwaretestinghelp.com/bdd-framework/)
+- [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria)
