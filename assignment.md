@@ -2,17 +2,24 @@
 
 ### Brief
 
-Write your answers for each scenario:
+Write your answers for each question:
 
-Scenario 1:
+Question 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
 Your answer here
 ```
 
-Scenario 2:
+Question 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
+
+```
+Your answers here
+```
+
+Question 3: 
+Define [Acceptance Criteria](https://resources.scrumalliance.org/Article/need-know-acceptance-criteria) for 3 to 5 user stories out of the 10 user stories you have defined.
 
 ```
 Your answers here
