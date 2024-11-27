@@ -43,7 +43,7 @@ The 12 principles applies to every agile methodologies.
 
 ### Activity - Research
 
-Choose 3 among the following Agile Methodologies and research how each is conducted:
+Break out into groups of 3 and choose 2 among the following Agile Methodologies and research how each is conducted:
 - Extreme Programming (XP)
 - Crystal
 - Dynamic Systems Development Method (DSDM)
@@ -95,7 +95,9 @@ What are the use of each Scrum artifacts:
 
 ---
 
-## Part 3 - Class Activity (What are agile user stories?)
+## Part 3 - Managing Tasks
+
+### Class Activity - What are agile user stories?
 
 |Action|Duration|Outcome|
 |----|--------|-------|
@@ -107,11 +109,13 @@ Three Questions:
 1. Why user stories?
 1. Think and provide an example of a user story.
 
+A user story is an statement of a software feature written from the perspective of the end user. Its purpose is to describe how a software feature will provide value to the customer. User stories are often expressed as "persona / role + need + purpose.": `As a ____, I want to ____, so that _____`
+
 ---
 
-## Part 4 - Class Activity (User story creation)
+## Part 4 - User story creation and Behavior Driven Development
 
-Activity: Choose a Scenario and create at least 10 user stories for your chosen scenario
+### Activity: Choose a Scenario and create at least 10 user stories for your chosen scenario
 1. eCommerce website
 2. eBanking website
 3. eLearning platform
@@ -121,3 +125,31 @@ Activity: Choose a Scenario and create at least 10 user stories for your chosen 
 7. Govtech website
 
 Remember the format of a user story: `As a ____, I want to ____, so that _____`
+
+After creating the user stories, acceptance criteria for each story must be created. Acceptance criteria are defined as the conditions that must be satisfied for a product, user story, or increment of work to be accepted. 
+
+Example:
+**Given** user enter correct username admin123 And incorrect password password123:
+
+**When** user press “Login” button
+
+**Then** an error message should display “Login failed, please try again.”
+
+Typically it follows the format: Given - When - Then. This allows for developers to simulate the flow and behavior of the end users which is the basis for BDD or Behavior-Driven Development. It is when an application and designed around the behavior a user expects to experience when interacting with it.
+
+### Story points
+
+After the user stories and acceptance criteria have been written and discussed with the team, they will be prioritized and give story points. A story point describes the complexity of user stories.
+
+Typically, stories are given the following points:
+- 1 point - least complexity
+- 3 point - moderate complexity
+- 5 point - high complexity
+- 8 point - story is too huge to complete within a sprint and it should be broken down into several user stories.
+
+>Why not man hours? Two developers will give two different set of man hours based on their experiences and familiarity of the project. Both developers should agree upon the level of complexity of user stories. Therefore, using user stories avoid dispute over the actual effort needed to finish the task
+
+Another factor to consider is how can we achieve deadline predictability?
+- Velocity is the number of story points cleared per sprint
+- Over several sprints, we should know the average velocity and use that for deadline predictability
+- Manpower x story points cleared = business estimation
